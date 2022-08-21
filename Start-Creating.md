@@ -14,12 +14,12 @@ Open up the `src` folder and go to `index.js`.
 
 You should see:
 
-```JavaScript
+```javascript
 registerPlugin({
-  name: __package.name,
-  description: __package.description,
-  version: __package.version,
-  author: __package.author,
+	name: __package.name,
+	description: __package.description,
+	version: __package.version,
+	author: __package.author
 });
 ```
 

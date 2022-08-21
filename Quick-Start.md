@@ -14,7 +14,7 @@ You should now be ready to start making your plugin.
 
 #### All commands you should have run: <!-- {docsify-ignore} -->
 
-```
+```bash
 cd /directory/path/here
 git clone https://github.com/Solar-Tweaks/SolarStatsPluginTemplate.gi
 cd SolarStatsPluginTemplate

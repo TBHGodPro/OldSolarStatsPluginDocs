@@ -13,14 +13,14 @@
     -   [\_\_cwd](Scope/__cwd.md)
     -   [\_\_plugins](Scope/__plugins.md)
     -   toolbox
-        -   Command
-        -   PlayerModule
-        -   Inventory
-        -   Item
-        -   Message
-        -   getConfig
-        -   getConfigSync
-        -   parseNBTData
+        -   [Command](Scope/toolbox/Command.md)
+        -   [Inventory](Scope/toolbox/Inventory.md)
+        -   [Item](Scope/toolbox/Item.md)
+        -   [Message](https://github.com/MinecraftJS/Chat/blob/main/src/builders/StringComponentBuilder.ts)
+        -   [getConfig](Scope/toolbox/getConfig.md)
+        -   [getConfigSync](Scope/toolbox/getConfigSync.md)
+        -   [PlayerModule](Scope/toolbox/PlayerModule.md)
+        -   [parseNBTData](Scope/toolbox/parseNBTData.md)
     -   player
     -   registerCommand
     -   registerPlayerModule
