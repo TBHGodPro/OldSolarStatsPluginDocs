@@ -1,0 +1,28 @@
+-   [What is all this about?](README.md)
+-   [Quick Start](Quick-Start.md)
+-   [Start Creating](Start-Creating.md)
+-   Scope
+    -   [...global](Scope/global.md)
+    -   [dirFetch](Scope/dirFetch.md)
+    -   [fetch](Scope/fetch.md)
+    -   [axios](Scope/axios.md)
+    -   [console](Scope/console.md)
+    -   [Logger](Scope/Logger.md)
+    -   [Buffer](Scope/Buffer.md)
+    -   [\_\_dirname](Scope/__dirname.md)
+    -   [\_\_cwd](Scope/__cwd.md)
+    -   [\_\_plugins](Scope/__plugins.md)
+    -   toolbox
+        -   Command
+        -   PlayerModule
+        -   Inventory
+        -   Item
+        -   Message
+        -   getConfig
+        -   getConfigSync
+        -   parseNBTData
+    -   player
+    -   registerCommand
+    -   registerPlayerModule
+    -   requireModule
+    -   registerPlugin
