@@ -21,8 +21,8 @@
         -   [getConfigSync](Scope/toolbox/getConfigSync.md)
         -   [PlayerModule](Scope/toolbox/PlayerModule.md)
         -   [parseNBTData](Scope/toolbox/parseNBTData.md)
-    -   player
-    -   registerCommand
-    -   registerPlayerModule
-    -   requireModule
-    -   registerPlugin
+    -   [player](Scope/player.md)
+    -   [registerCommand](Scope/registerCommand.md)
+    -   [registerPlayerModule](Scope/registerPlayerModule.md)
+    -   [requireModule](Scope/requireModule.md)
+    -   [registerPlugin](Scope/registerPlugin.md)

@@ -1,4 +1,4 @@
-# Solar Stats Plugin Docs <small>v0.0.2</small>
+# Solar Stats Plugin Docs <small>v1.0.0</small>
 
 > Learn how to get your first plugin up and running!
 
